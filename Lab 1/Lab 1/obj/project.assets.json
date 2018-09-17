@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mihailkocetkov/C++/C#/Lab 1/Lab 1/Lab 1.csproj",
+      "projectUniqueName": "/Users/mihailkocetkov/C++/C#/BKIT/Lab 1/Lab 1/Lab 1.csproj",
       "projectName": "Lab 1",
-      "projectPath": "/Users/mihailkocetkov/C++/C#/Lab 1/Lab 1/Lab 1.csproj",
+      "projectPath": "/Users/mihailkocetkov/C++/C#/BKIT/Lab 1/Lab 1/Lab 1.csproj",
       "packagesPath": "/Users/mihailkocetkov/.nuget/packages/",
-      "outputPath": "/Users/mihailkocetkov/C++/C#/Lab 1/Lab 1/obj/",
+      "outputPath": "/Users/mihailkocetkov/C++/C#/BKIT/Lab 1/Lab 1/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

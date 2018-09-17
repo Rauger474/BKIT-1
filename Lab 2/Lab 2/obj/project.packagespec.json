@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/mihailkocetkov/C++/C#/Lab 2/Lab 2/Lab 2.csproj",
+    "projectUniqueName": "/Users/mihailkocetkov/C++/C#/BKIT/Lab 2/Lab 2/Lab 2.csproj",
     "projectName": "Lab 2",
-    "projectPath": "/Users/mihailkocetkov/C++/C#/Lab 2/Lab 2/Lab 2.csproj",
-    "outputPath": "/Users/mihailkocetkov/C++/C#/Lab 2/Lab 2/obj/",
+    "projectPath": "/Users/mihailkocetkov/C++/C#/BKIT/Lab 2/Lab 2/Lab 2.csproj",
+    "outputPath": "/Users/mihailkocetkov/C++/C#/BKIT/Lab 2/Lab 2/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

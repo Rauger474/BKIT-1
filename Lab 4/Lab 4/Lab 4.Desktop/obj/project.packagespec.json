@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/Lab 4.Desktop.csproj",
+    "projectUniqueName": "/Users/mihailkocetkov/C++/C#/BKIT/Lab 4/Lab 4/Lab 4.Desktop/Lab 4.Desktop.csproj",
     "projectName": "Lab 4.Desktop",
-    "projectPath": "/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/Lab 4.Desktop.csproj",
-    "outputPath": "/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/obj/",
+    "projectPath": "/Users/mihailkocetkov/C++/C#/BKIT/Lab 4/Lab 4/Lab 4.Desktop/Lab 4.Desktop.csproj",
+    "outputPath": "/Users/mihailkocetkov/C++/C#/BKIT/Lab 4/Lab 4/Lab 4.Desktop/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -15,8 +15,8 @@
     "frameworks": {
       "net461": {
         "projectReferences": {
-          "/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/Lab 4.csproj": {
-            "projectPath": "/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/Lab 4.csproj"
+          "/Users/mihailkocetkov/C++/C#/BKIT/Lab 4/Lab 4/Lab 4/Lab 4.csproj": {
+            "projectPath": "/Users/mihailkocetkov/C++/C#/BKIT/Lab 4/Lab 4/Lab 4/Lab 4.csproj"
           }
         }
       }

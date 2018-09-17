@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v1.6/",
-    "signature": "bea51dd795174e0573bd4b731858e82c1c2a4ab4"
+    "signature": "0bdac064b401321e00797b53f4911442495475db"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,7 +9,8 @@
     ".NETStandard,Version=v1.6/": {
       "Lab 4/1.0.0": {
         "dependencies": {
-          "Eto.Platform.Mac": "2.4.1",
+          "Eto.Forms": "2.4.1",
+          "Eto.Platform.Mac64": "2.4.1",
           "NETStandard.Library": "1.6.1"
         },
         "runtime": {
@@ -28,7 +29,7 @@
           }
         }
       },
-      "Eto.Platform.Mac/2.4.1": {
+      "Eto.Platform.Mac64/2.4.1": {
         "dependencies": {
           "Eto.Forms": "2.4.1"
         }
@@ -874,12 +875,12 @@
       "path": "eto.forms/2.4.1",
       "hashPath": "eto.forms.2.4.1.nupkg.sha512"
     },
-    "Eto.Platform.Mac/2.4.1": {
+    "Eto.Platform.Mac64/2.4.1": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-004TazxGNBvQVID7Ly6UVBi418maTUOxbVvygBH8xfSdyKcdsNlox6ImmTKW7hFtO+oN8gZWsyc7Z+EedZDg5w==",
-      "path": "eto.platform.mac/2.4.1",
-      "hashPath": "eto.platform.mac.2.4.1.nupkg.sha512"
+      "sha512": "sha512-7RJwTUiP0+/ckvDQrPIGzfPPKpFcCSFS4NKvpL0ixDOJnVwEanmhOppr8rpZZ3P1eYccpJzXaPSow6p9P9OYuw==",
+      "path": "eto.platform.mac64/2.4.1",
+      "hashPath": "eto.platform.mac64.2.4.1.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",
