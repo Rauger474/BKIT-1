@@ -1,0 +1,12 @@
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/obj/Debug/netstandard1.6/Lab 4.csprojAssemblyReference.cache
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/obj/Debug/netstandard1.6/Lab 4.csproj.CoreCompileInputs.cache
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/obj/Debug/netstandard1.6/Lab 4.AssemblyInfoInputs.cache
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/obj/Debug/netstandard1.6/Lab 4.AssemblyInfo.cs
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/bin/Debug/netstandard1.6/Lab 4.deps.json
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/bin/Debug/netstandard1.6/Lab 4.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/bin/Debug/netstandard1.6/Lab 4.pdb
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/obj/Debug/netstandard1.6/Lab 4.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/obj/Debug/netstandard1.6/Lab 4.pdb
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/bin/Debug/netstandard1.6/Eto.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/bin/Debug/netstandard1.6/Eto.xml
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/obj/Debug/netstandard1.6/Lab 4.csproj.CopyComplete

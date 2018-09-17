@@ -1,0 +1,121 @@
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/Lab 4.Desktop.exe.config
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/Lab 4.Desktop.exe
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/Lab 4.Desktop.pdb
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/Eto.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/MonoMac.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/Microsoft.Win32.Primitives.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/netstandard.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.AppContext.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Collections.Concurrent.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Collections.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Collections.NonGeneric.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Collections.Specialized.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.ComponentModel.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.ComponentModel.EventBasedAsync.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.ComponentModel.Primitives.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.ComponentModel.TypeConverter.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Console.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Data.Common.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Diagnostics.Contracts.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Diagnostics.Debug.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Diagnostics.FileVersionInfo.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Diagnostics.Process.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Diagnostics.StackTrace.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Diagnostics.TextWriterTraceListener.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Diagnostics.Tools.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Diagnostics.TraceSource.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Diagnostics.Tracing.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Drawing.Primitives.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Dynamic.Runtime.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Globalization.Calendars.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Globalization.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Globalization.Extensions.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.Compression.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.Compression.ZipFile.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.FileSystem.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.FileSystem.DriveInfo.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.FileSystem.Primitives.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.FileSystem.Watcher.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.IsolatedStorage.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.MemoryMappedFiles.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.Pipes.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.IO.UnmanagedMemoryStream.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Linq.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Linq.Expressions.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Linq.Parallel.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Linq.Queryable.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.Http.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.NameResolution.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.NetworkInformation.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.Ping.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.Primitives.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.Requests.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.Security.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.Sockets.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.WebHeaderCollection.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.WebSockets.Client.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Net.WebSockets.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.ObjectModel.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Reflection.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Reflection.Extensions.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Reflection.Primitives.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Resources.Reader.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Resources.ResourceManager.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Resources.Writer.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.CompilerServices.VisualC.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.Extensions.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.Handles.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.InteropServices.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.Numerics.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.Serialization.Formatters.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.Serialization.Json.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.Serialization.Primitives.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Runtime.Serialization.Xml.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Security.Claims.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Security.Cryptography.Algorithms.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Security.Cryptography.Csp.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Security.Cryptography.Encoding.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Security.Cryptography.Primitives.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Security.Cryptography.X509Certificates.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Security.Principal.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Security.SecureString.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Text.Encoding.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Text.Encoding.Extensions.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Text.RegularExpressions.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Threading.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Threading.Overlapped.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Threading.Tasks.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Threading.Tasks.Parallel.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Threading.Thread.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Threading.ThreadPool.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Threading.Timer.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.ValueTuple.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Xml.ReaderWriter.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Xml.XDocument.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Xml.XmlDocument.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Xml.XmlSerializer.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Xml.XPath.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/System.Xml.XPath.XDocument.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/Lab 4.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/Lab 4.pdb
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/obj/Debug/net461/Lab 4.Desktop.csprojAssemblyReference.cache
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/obj/Debug/net461/Lab 4.Desktop.exe.config
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/obj/Debug/net461/Lab 4.Desktop.csproj.CoreCompileInputs.cache
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/obj/Debug/net461/Lab 4.Desktop.AssemblyInfoInputs.cache
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/obj/Debug/net461/Lab 4.Desktop.AssemblyInfo.cs
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/obj/Debug/net461/Lab 4.Desktop.csproj.CopyComplete
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/obj/Debug/net461/Lab 4.Desktop.exe
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/obj/Debug/net461/Lab 4.Desktop.pdb
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/AtkSharp.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/CairoSharp.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/Eto.Gtk.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/Eto.Mac64.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/Eto.Wpf.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/GdkSharp.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/GioSharp.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/GLibSharp.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/GtkSharp.dll
+/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4.Desktop/bin/Debug/net461/PangoSharp.dll

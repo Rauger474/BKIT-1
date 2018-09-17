@@ -1,0 +1,38 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/Lab 4.csproj",
+    "projectName": "Lab 4",
+    "projectPath": "/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/Lab 4.csproj",
+    "outputPath": "/Users/mihailkocetkov/C++/C#/Lab 4/Lab 4/Lab 4/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netstandard1.6"
+    ],
+    "frameworks": {
+      "netstandard1.6": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netstandard1.6": {
+      "dependencies": {
+        "NETStandard.Library": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[1.6.1, )",
+          "autoReferenced": true
+        }
+      }
+    }
+  }
+}
