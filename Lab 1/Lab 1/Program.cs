@@ -30,8 +30,8 @@ namespace Lab_1
             }
 
             var x = -b / twoA;
-            Console.WriteLine($"Уравнение {a}x^2 + {b}x + {c} = 0 имеет 2 совпадающих действительных корня: x = {x}");
-        }
+            Console.WriteLine($"Уравнение {a}x^2 + {b}x + {c} = 0 имеет 2 совпадающих действительных корня: x = {x}");        
+	} 
 
         static double GetNumber(string coef)
         {
