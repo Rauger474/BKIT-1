@@ -38,7 +38,7 @@ namespace Lab_7
                 new Employee(14, "Агатов", 2)
             };
 
-            Console.WriteLine("Выведите список всех сотрудников и отделов, отсортированный по отделам");
+            Console.WriteLine("Выведите список всех сотрудников и отделов, отсортированный по отделам");
             
             var list1 = 
                 from employee in employees
